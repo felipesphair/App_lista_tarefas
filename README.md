@@ -20,23 +20,23 @@ Para rodar:
   
 - abra o PHPMYADMIN e rode esse SQL:
   
-      -- Cria o banco de dados pdo_com_mysql
+      -- Cria o banco de dados pdo_com_mysql--
       CREATE DATABASE IF NOT EXISTS pdo_com_mysql;
       
       -- Seleciona o banco de dados pdo_com_mysql
       USE pdo_com_mysql;
       
-      -- Cria a tabela tb_status
+      -- Cria a tabela tb_status--
       CREATE TABLE IF NOT EXISTS tb_status (
           id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
           status VARCHAR(25) NOT NULL
       );
       
-      -- Insere os dados na tabela tb_status
+      -- Insere os dados na tabela tb_status--
       INSERT INTO tb_status (status) VALUES ('pendente');
       INSERT INTO tb_status (status) VALUES ('realizado');
       
-      -- Cria a tabela tb_tarefas
+      -- Cria a tabela tb_tarefas--
       CREATE TABLE IF NOT EXISTS tb_tarefas (
           id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
           id_status INT NOT NULL DEFAULT 1,
