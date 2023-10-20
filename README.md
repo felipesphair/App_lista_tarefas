@@ -53,7 +53,6 @@ Telas:
 
 ![image](https://github.com/felipesphair/App_lista_tarefas/assets/107360437/bfa368e8-397d-4a76-b6f8-1d1856bc4c1b)
 
-![image](https://github.com/felipesphair/App_lista_tarefas/assets/107360437/93243f5d-fe77-40ee-a360-61c666c564c9)
 
 
 
