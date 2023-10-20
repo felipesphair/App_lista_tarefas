@@ -1,10 +1,16 @@
 # App_lista_tarefas
 
 Aplicativo de TO DO LIST, visando aprimorar e exercitar esses conhecimentos: 
-  - HMTL, 
-  - CSS(bootstrap),
-  - PHP com o uso de PDO,
-  - Java Script.
+  FRONT:
+  
+    - HMTL, 
+    - CSS(bootstrap),
+    - Java Script,
+    
+  BACK:
+  
+    - PHP com o uso de PDO.
+  
 
 Para rodar:
 
