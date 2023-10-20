@@ -23,7 +23,7 @@ Para rodar:
       -- Cria o banco de dados pdo_com_mysql--
       CREATE DATABASE IF NOT EXISTS pdo_com_mysql;
       
-      -- Seleciona o banco de dados pdo_com_mysql
+      -- Seleciona o banco de dados pdo_com_mysql--
       USE pdo_com_mysql;
       
       -- Cria a tabela tb_status--
