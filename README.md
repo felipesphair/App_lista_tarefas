@@ -1,6 +1,6 @@
 # App_lista_tarefas
 
-Aplicativo de TO DO LIST, visando aprimorar e exercitar esses conhecimentos: 
+Aplicativo de TO DO LIST, visando aprimorar e exercitar esses conhecimentos upado na web com o infinity free no link http://cafetodolist.kesug.com/: 
   FRONT:
   
     - HMTL, 
